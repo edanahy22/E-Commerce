@@ -35,7 +35,7 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia/Postman
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-[Walk-through Video](https://drive.google.com/file/d/1mOM37-QW6T0AhCFF59s_RolZcHzxtcL4/view)
+[Walk-through Video](https://drive.google.com/file/d/1WHutlf9wjmzbvIHxqcRz-gGJiFNoqrh2/view)
 
 ## Development
 This application was developed using javaScript, node, express, mySQL, sequelize, and dotenv packages. 
